@@ -3,6 +3,10 @@
 	font-color: #c5d5cb;
 	font-size:75px;
 }
+#tagline {
+	font-color: white;
+	font-size:40px;
+}
 
 body {
     background-image: url("grey-website-background-illusionapparel2.jpg");
