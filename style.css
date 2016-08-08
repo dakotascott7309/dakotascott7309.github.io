@@ -21,7 +21,7 @@ h3 {
   display: flex;
   align-items: center;
   background-image: url('mountains_wallpaper_by_liorkatz-d8yp0wt.jpg');
-  background-size: cover;
+  background-size: inherit;
   color: #ffffff;
   height: 1500px;
   text-shadow: 0.25px 0.25px 0.25px #000000;
