@@ -7,7 +7,7 @@ font-family: 'Roboto', sans-serif;
 .jumbotron {
   display: flex;
   align-items: center;
-  background-image: url ('[URL=http://s1253.photobucket.com/user/Dakota_Hoffman/media/72b2b7a2-b937-4406-a473-67d602fa0993_zpsljxwqf69.jpg.html][IMG]http://i1253.photobucket.com/albums/hh595/Dakota_Hoffman/72b2b7a2-b937-4406-a473-67d602fa0993_zpsljxwqf69.jpg[/IMG][/URL]');
+  background-image: url ('https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-4/jumbotron.jpg');
   background-size: cover;
   color: #ffffff;
   height: 500px;
