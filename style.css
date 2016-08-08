@@ -11,7 +11,7 @@
 
 body {
     background-image: url("grey-website-background-illusionapparel2.jpg");
-    font-color:white;
+
 }
 
 #name{
@@ -34,4 +34,8 @@ body {
 #education{
 	color:#e3e0cf;
 	font-size: 22px;
+}
+
+li {
+  color: white;
 }
