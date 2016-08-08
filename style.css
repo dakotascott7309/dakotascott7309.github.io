@@ -3,7 +3,7 @@ font-family: 'Roboto', sans-serif;
   font-weight: 300;
   background-image: url('coffee-smartphone-desk-pen.jpg');
   background-repeat:no-repeat;
-  background-size:auto;
+  background-size:initial;
 }
 body {
     background-color: #fdd9cb;
