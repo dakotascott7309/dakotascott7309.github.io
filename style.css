@@ -39,3 +39,8 @@ body {
 li {
   color: white;
 }
+
+.right {
+	float: right;
+}
+}
