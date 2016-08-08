@@ -6,12 +6,25 @@ font-family: 'Roboto', sans-serif;
 body {
     background-color: #2c0a2d;
 }
+
 .jumbotron {
   display: flex;
   align-items: center;
-  background-image: url ("mountains_wallpaper_by_liorkatz-d8yp0wt.jpg");
+  background-image: url('mountains_wallpaper_by_liorkatz-d8yp0wt.jpg');
   background-size: cover;
-  color: red;
+  color: #ffffff;
   height: 500px;
   text-shadow: 0.25px 0.25px 0.25px #000000;
+}
 
+.jumbotron h2 {
+  font-size: 60px;
+  font-weight: 700;
+  margin: 0;
+  color: #fff;
+}
+
+.jumbotron h3 {
+  margin: 0 0 20px;
+  color: #fff;
+}
