@@ -9,7 +9,7 @@ font-family: 'Roboto', sans-serif;
   align-items: center;
   background-image: url ("https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-4/kitchen.jpg");
   background-size: cover;
-  color: #ffffff;
+  color: red;
   height: 500px;
   text-shadow: 0.25px 0.25px 0.25px #000000;
 
